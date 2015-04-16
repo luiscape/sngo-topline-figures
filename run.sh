@@ -1,4 +1,5 @@
 #!/bin/bash
 
 source venv/bin/activate
-python tool/code/create-datastore.py API_KEY
+python code/create_datastore.py $HDX_KEY data/temp.csv
+# python code/create_datastore_stag.py $HDX_KEY data/temp.csv

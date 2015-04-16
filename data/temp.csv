@@ -1,0 +1,11 @@
+code,title,value,latest_date,source,source_link,notes,explore,units
+SNC01201,No. of Members Sharing,26,2015-02-25,"SNC
+","https://data.hdx.rwlabs.org/dataset/3w-matrix-for-somalia-ngo-consortium#
+",Members sharing 3W data with the Somalia NGO Consortium,,count
+SNC01202,No. of Project Activities (2015),126,2015-02-25,"SNC
+","https://data.hdx.rwlabs.org/dataset/3w-matrix-for-somalia-ngo-consortium#
+",Ongoing and completed projects by consortium members,,count
+SNC01203,No. of Sectors,12,2015-02-25,"SNC
+",https://data.hdx.rwlabs.org/dataset/3w-matrix-for-somalia-ngo-consortium#,Number of sectors covered by members' projects,,count
+SNC01204,No. of Operational Districts,69,2015-02-25,"SNC
+",https://data.hdx.rwlabs.org/dataset/3w-matrix-for-somalia-ngo-consortium#,Number of districts covered by members' projects,,count
